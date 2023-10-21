@@ -1,0 +1,247 @@
+/* Default css start */
+*{
+    font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+body{
+    padding: 0;
+}
+h3{
+    font-size:25px;
+    font-weight: 700;
+}
+p{
+    font-size: 12px;
+    color: #444343;
+}
+.btn-primary{
+    padding: 10px 20px;
+    color: #005FAC;
+    background-color: white;
+    font-weight: 700;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+}
+/* Default css end */
+
+/* Header section start */
+.head-contetnt{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    margin-bottom: 130px;  
+}
+.header{
+   width: 30%;
+   position: absolute;
+   right: 10%;
+   padding-top: 200px;
+}
+.header .header-title{
+    font-size: 35px;
+    color: white;
+}
+.header-info{
+    font-size: 12px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+/* Header section end */
+
+/* feature-section start */
+.feature-section{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 220px;
+}
+.feature-image{
+    width: 100%;
+}
+.feature-image img{
+    width: 80%;
+    padding: 50px;
+}
+.feature{
+    width: 50%;
+    padding-top: 200px;
+}
+.feature p{
+    margin-top: 20px;
+}
+/* Feature section end */
+/* about client start */
+.about-content-info {
+    margin-left: 10%;
+}
+
+.about-image-container img {
+    width: 40%;
+    margin-left: 40%;
+}
+
+.about-us {
+    display: flex;
+    width: 100%;
+}
+
+.working-area {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.working-area p {
+    margin: 30px 10px;
+}
+
+.client-area {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+
+.client-area .client-image-area {
+    display: flex;
+    width: 90%;
+
+}
+
+.client-image-area .client-img img {
+    border-radius: 30px;
+    padding-right: 10px;
+}
+
+.review h5 {
+    display: inline;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.review h2 {
+    display: inline;
+    width: 40%;
+}
+
+.experience {
+    display: flex;
+    width: 100%;
+}
+
+.experience h3 {
+    font-size: 35px;
+}
+
+.years h1 {
+    margin: 0;
+    font-size: 150px;
+
+}
+
+.years h5 {
+    margin: 0;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 25px;
+}
+/* about client end */
+/* Plan section start */
+.plan h3{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.myPlan-section{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 130px;
+}
+.myPlan-section .skill{
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+/* Plan section end */
+
+/* positive-mind section start */
+.positive-mind{
+    width: 60%;
+    background-image:linear-gradient(90deg,#005FAC 0%,rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    height: 150px;
+    border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 130px;
+
+}
+.positive-slogan {
+    width: 60%;
+    color: white;
+    margin-bottom: 10px;
+}
+/* positive-mind section end */
+/* Footer section */
+.future-section{
+    width: 100%;
+    background-color: #151414;
+    display: flex;
+    
+}
+.future-content{
+    width: 30%;
+    margin: 30px 0 20px 15%;
+    
+}
+.future h3{
+    color: white;
+    padding-bottom: 5px;
+}
+.future p{
+    color: white;
+}
+.icon img{
+    width: 30px;
+    height: 30px;
+    padding: 15px 15px 0 0;
+}
+.subscribe{
+    width: 30%;
+   position: absolute;
+   right: 5%;
+   padding-top: 30px;
+}
+.subscribe h3{
+    color: white;
+    font-weight: 100;
+    font-size: 16px;
+}
+.subscribe input{
+    padding: 10px 10px;
+    display: block;
+    margin: 10px 0;
+    background-color: black;
+    border: 0;
+}
+.footer-mail{
+    margin: 10px 0;
+}
+.footer-number{
+    margin: 10px 0; 
+}
+.btn-diff{
+    background-color: #005FAC;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+}
+
